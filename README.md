@@ -17,10 +17,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)
   
 </p>
-<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8)
-</p>
+
