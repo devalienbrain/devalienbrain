@@ -18,11 +18,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8" alt="Productive Time">
-  
-</div>
-
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=monokai)](https://git.io/streak-stats)
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=monokai" alt="GitHub Streak">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
