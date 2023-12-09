@@ -1,4 +1,4 @@
-![17iconsVisualStdio](https://github.com/devalienbrain/devalienbrain/assets/136051509/238537ff-7a10-44f4-aa78-cb25aea5693d)![01iconsHtml](https://github.com/devalienbrain/devalienbrain/assets/136051509/70c2be1c-7d52-460c-a46c-37a7fe910974)![git hub banner](https://github.com/devalienbrain/devalienbrain/assets/136051509/093ab322-c5e8-4ae2-b614-8ba294d11d57)
+![git hub banner](https://github.com/devalienbrain/devalienbrain/assets/136051509/093ab322-c5e8-4ae2-b614-8ba294d11d57)
 <h1 align="center">Hi 👋, I'm Hassan Mohammad</h1>
 <h3 align="center">A passionate react frontend developer</h3>
 
