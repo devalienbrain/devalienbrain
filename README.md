@@ -1,4 +1,4 @@
-![git hub banner](https://github.com/devalienbrain/devalienbrain/assets/136051509/093ab322-c5e8-4ae2-b614-8ba294d11d57)
+![01HTML](https://github.com/devalienbrain/devalienbrain/assets/136051509/8e21c316-e5ae-4def-b13e-f1ce2e543f2b)![git hub banner](https://github.com/devalienbrain/devalienbrain/assets/136051509/093ab322-c5e8-4ae2-b614-8ba294d11d57)
 <h1 align="center">Hi 👋, I'm Hassan Mohammad</h1>
 <h3 align="center">A passionate react frontend developer</h3>
 
@@ -10,10 +10,8 @@
 
 <p align="left"> 
 
-![12C](https://github.com/devalienbrain/devalienbrain/assets/136051509/3ad2ebad-5906-4320-a1cf-da4af6746156)<svg width="40" height="40" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#394AAB"/>
-<path d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z" fill="white"/>
-</svg>
+
+![<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="none" viewBox="0 0 40 40"><rect width="40" height="40" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>Uploading 01HTML.svg…]()
 
   
 </p>
