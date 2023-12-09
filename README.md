@@ -18,3 +18,8 @@
   
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8)
