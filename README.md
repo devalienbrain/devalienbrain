@@ -17,8 +17,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)
   
 </p>
-<div align="center"> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai)
- </div>
+
+
+<h3 align="left">My GitHub Profile Summary</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai)
