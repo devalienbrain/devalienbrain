@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Hassan Mohammad</h1>
 <h3 align="center">A passionate React Front-end Developer</h3>
 
+<p align="left">
+
+  I’m currently working on React front-end projects, weaving together polished user interfaces with the power of Tailwind CSS, DaisyUI, Firebase, MongoDB, and deploying on Vercel. Passionate about leveraging these technologies to create dynamic and efficient web applications. 
+
+  Diving into the world of web development, I'm currently mastering Material-UI for sleek interfaces, exploring the depths of MongoDB with Mongoose for robust data handling, and honing my skills in Node.js and Next.js for server-side and frontend magic. Excited about the journey of building scalable and efficient applications with these cutting-edge technologies!
+</p>
+  
+
 <h3 align="center">My GitHub Profile Summary</h3>
 
 <div align="center">
@@ -12,13 +20,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8" alt="Productive Time">
 </div>
 
-<p align="left">
-
-  I’m currently working on React front-end projects, weaving together polished user interfaces with the power of Tailwind CSS, DaisyUI, Firebase, MongoDB, and deploying on Vercel. Passionate about leveraging these technologies to create dynamic and efficient web applications. 
-
-  Diving into the world of web development, I'm currently mastering Material-UI for sleek interfaces, exploring the depths of MongoDB with Mongoose for robust data handling, and honing my skills in Node.js and Next.js for server-side and frontend magic. Excited about the journey of building scalable and efficient applications with these cutting-edge technologies!
-</p>
-  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
