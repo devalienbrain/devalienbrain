@@ -19,12 +19,12 @@
 </p>
 
 
-<h3 align="left">My GitHub Profile Summary</h3>
+<h3 align="center">My GitHub Profile Summary</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=monokai)](https://git.io/streak-stats)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=monokai&utcOffset=8" alt="Productive Time">
+</div>
