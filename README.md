@@ -1,5 +1,5 @@
-![git hub banner](https://github.com/devalienbrain/devalienbrain/assets/136051509/093ab322-c5e8-4ae2-b614-8ba294d11d57)
-<h1 align="center">Hi 👋, I'm Hassan Mohammad</h1>
+![Hasssan Sabbir](https://github.com/devalienbrain/devalienbrain/assets/136051509/4df7f647-8b67-41e0-9f2a-be906814cf9e)
+<h1 align="center">Hi 👋, I'm Hassan Sabbir</h1>
 <h3 align="center">A passionate React Front-end Developer</h3>
 
 <p align="left">
