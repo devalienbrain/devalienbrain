@@ -1,7 +1,7 @@
 ![Hasssan Sabbir](https://github.com/devalienbrain/devalienbrain/assets/136051509/26f2603f-4308-40dc-9b34-e3924acc6c77)
 
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate React Front-end Developer</h3>
+<h1 align="left">Hi 👋, I'm Hassan</h1>
+<h3 align="left">A passionate React Front-end Developer</h3>
 
 <p align="left">
 
@@ -11,9 +11,9 @@
 </p>
   
 
-<h3 align="center">My GitHub Profile Summary</h3>
+<h3 align="left">My GitHub Profile Summary</h3>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
