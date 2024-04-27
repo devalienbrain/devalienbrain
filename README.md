@@ -1,5 +1,6 @@
 
-![GIT](https://github.com/devalienbrain/devalienbrain/assets/136051509/44260dc6-18c8-409c-a4b7-383bcaa07f01)
+![GIT](https://github.com/devalienbrain/devalienbra![GITHUB-COVER-MAMA](https://github.com/devalienbrain/devalienbrain/assets/136051509/b6c088be-4331-42ad-84fa-897acaaefd4b)
+in/assets/136051509/44260dc6-18c8-409c-a4b7-383bcaa07f01)
 
 <h1 align="left">Hi 👋, I'm Hassan</h1>
 <h3 align="left">A passionate Full stack web Developer</h3>
