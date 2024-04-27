@@ -2,7 +2,7 @@
 ![GITHUB-COVER-MAMA](https://github.com/devalienbrain/devalienbrain/assets/136051509/abd41d84-1683-4113-8ac8-41719900ca9e)
 
 
-<h1 align="left">Hi 👋, I'm Hassan</h1>
+<h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="left">A passionate Full stack web Developer</h3>
 
 <p align="left">
