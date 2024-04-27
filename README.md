@@ -4,9 +4,9 @@
 <h3 align="left">A passionate Full stack web Developer</h3>
 
 <p align="left">
-👋 Hello! I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently.
+  I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently.
 
-Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together!
+  Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together!
 </p>
   
 
