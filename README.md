@@ -1,13 +1,12 @@
 ![Hasssan Sabbir](https://github.com/devalienbrain/devalienbrain/assets/136051509/26f2603f-4308-40dc-9b34-e3924acc6c77)
 
 <h1 align="left">Hi 👋, I'm Hassan</h1>
-<h3 align="left">A passionate React Front-end Developer</h3>
+<h3 align="left">A passionate Full stack web Developer</h3>
 
 <p align="left">
+👋 Hello! I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently.
 
-  I’m currently working on React front-end projects, weaving together polished user interfaces with the power of Tailwind CSS, DaisyUI, Firebase, MongoDB, and deploying on Vercel. Passionate about leveraging these technologies to create dynamic and efficient web applications. 
-
-  Diving into the world of web development, I'm currently mastering Material-UI for sleek interfaces, exploring the depths of MongoDB with Mongoose for robust data handling, and honing my skills in Node.js and Next.js for server-side and frontend magic. Excited about the journey of building scalable and efficient applications with these cutting-edge technologies!
+Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together!
 </p>
   
 
