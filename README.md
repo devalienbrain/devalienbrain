@@ -5,11 +5,9 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate Full stack web Developer</h3>
 
-<p align="center">
-  I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently.
+<p align="center"> I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently. </p>
 
-  Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together!
-</p>
+<p align="center"> Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together! </p>
   
 
 <h3 align="center">My GitHub Profile Summary</h3>
