@@ -23,6 +23,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)
+<p align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)
+
 </p>
