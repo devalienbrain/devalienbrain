@@ -13,7 +13,7 @@
 <h3 align="center">My GitHub Profile Summary</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=monokai" alt="Stats">
@@ -23,9 +23,4 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> 
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)
-  
-</p>
+<p align="center"> [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light)](https://skillicons.dev)</p>
