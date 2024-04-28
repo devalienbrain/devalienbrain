@@ -29,8 +29,9 @@
 
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" alt="My Skills">
   </a>
 </div>
+
