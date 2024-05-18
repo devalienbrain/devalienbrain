@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light">
+  <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" alt="My Skills">
   </a>
 </div>
