@@ -1,18 +1,16 @@
-
 ![GITHUB-COVER-MAMA](https://github.com/devalienbrain/devalienbrain/assets/136051509/abd41d84-1683-4113-8ac8-41719900ca9e)
 
+<h1 align="left">Hi 👋, I'm Hassan</h1>
+<h3 align="left">A passionate Full stack web Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate Full stack web Developer</h3>
+<p align="left"> I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently. </p>
 
-<p align="center"> I'm a Full Stack Web Developer well-versed in a variety of technologies, including React.js for dynamic frontend experiences, Tailwind CSS for streamlined styling, and Node.js/Express.js for robust backend development. With expertise in MongoDB, I excel at managing data efficiently. </p>
-
-<p align="center"> Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together! </p>
+<p align="left"> Currently, I'm expanding my skill set by exploring Next.js for enhanced server-side rendering and Redux for state management. Always eager to dive into new and cutting-edge technologies, I'm committed to staying at the forefront of web development trends. Let's collaborate and create innovative solutions together! </p>
   
 
-<h3 align="center">My GitHub Profile Summary</h3>
+<h3 align="left">My GitHub Profile Summary</h3>
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
@@ -21,10 +19,10 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=monokai" alt="GitHub Streak">
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" align="center">
+<div align="left">
+  <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" align="left">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=light" alt="My Skills">
   </a>
 </div>
