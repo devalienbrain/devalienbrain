@@ -11,6 +11,9 @@
 <h3 align="left">My GitHub Profile Summary</h3>
 
 <div align="left">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=monokai" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=monokai" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=monokai" alt="Most Commit Language">
