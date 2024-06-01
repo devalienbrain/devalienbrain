@@ -5,8 +5,13 @@
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details">
+ </div>
+ <div align="left">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=2077" alt="GitHub Streak" align="left"> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language">
+</div>
+<div align="left">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=2077" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=2077" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=2077" alt="Productive Time">
