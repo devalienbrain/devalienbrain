@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hassan</h1>
-<h3 align="left">A passionate Full-stack web developer</h3>
+<h2 align="left" style="color: red">A passionate Full-stack web developer</h2>
  
 <h3 align="left">My GitHub profile summary</h3>
 
