@@ -5,10 +5,6 @@
  <div align="left">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details">
   </div>
-<div align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=2077" alt="GitHub Streak"> 
- </div>
-
   <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language">
   </div>
@@ -21,7 +17,9 @@
    <div align="left">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=2077" alt="Productive Time">
 </div>
-
+<div align="left">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=2077" alt="GitHub Streak"> 
+ </div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=dark" align="left">
