@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h2 align="center" style="color: #FF6347">🚀 Passionate Full-Stack Web Developer</h2>
+<h2 align="center" style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
 <p align="center">
     <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
@@ -32,19 +32,19 @@
 
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,express,nodejs,mongodb,nextjs,c,cpp,java,figma,git,github,vscode,vercel&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,mongoose,redux,nodejs,express,react,tailwind,vercel&theme=dark" alt="My Skills" />
 </p>
 
 ---
 
 <h3 align="center">✨ About Me</h3>
 <p align="center">
-    As a dedicated full-stack developer, I am passionate about creating immersive web experiences, from the visual appeal of frontends to the robustness of backends. I enjoy pushing the boundaries of web development to deliver both functionality and style. Outside of coding, I'm always exploring new technologies and sharpening my skills to stay on the cutting edge. Connect with me to collaborate on innovative projects and exchange ideas!
+    I'm currently focusing on building **scalable full-stack applications** using <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. I love creating efficient, high-performing applications, combining the latest in frontend and backend technologies. Outside of coding, I constantly explore new development trends and refine my skills to deliver better user experiences.
 </p>
 
 ---
 
 <h3 align="center">🌍 Connect with Me</h3>
 <p align="center">
-    Feel free to reach out on LinkedIn or explore my GitHub projects. Let’s bring ideas to life together!
+    Reach out on LinkedIn or check out my GitHub projects. I’m always open to collaborating on innovative and impactful projects!
 </p>
