@@ -5,9 +5,7 @@
     <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-    <a href="https://github.com/devalienbrain" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-    </a>
+   
 </p>
 
 ---
