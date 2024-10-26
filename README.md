@@ -32,7 +32,7 @@
 
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,mongoose,redux,nodejs,express,react,tailwind,vercel&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,redux,nodejs,express,react,tailwind,vercel&theme=dark" alt="My Skills" />
 </p>
 
 ---
