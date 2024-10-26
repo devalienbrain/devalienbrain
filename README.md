@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h2 align="center" style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
----
-
 <h3 align="center">📊 My GitHub Profile Summary</h3>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details" />
