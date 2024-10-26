@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h2 align="center" style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
-<p align="center">
-    <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-   
-</p>
-
 ---
 
 <h3 align="center">📊 My GitHub Profile Summary</h3>
@@ -43,6 +36,12 @@
 ---
 
 <h3 align="center">🌍 Connect with Me</h3>
+<p align="center">
+    <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+   
+</p>
 <p align="center">
     Reach out on LinkedIn or check out my GitHub projects. I’m always open to collaborating on innovative and impactful projects!
 </p>
