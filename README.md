@@ -47,6 +47,15 @@
     <a href="https://www.facebook.com/md.sabbirhassanmurad" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile">
     </a>
+    <a href="https://uhunt.onlinejudge.org/id/14940" target="_blank">
+        <img src="https://img.shields.io/badge/UHunt-FFD700?style=for-the-badge" alt="UHunt Profile">
+    </a>
+    <a href="https://medium.com/@hassansabbir0321" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog">
+    </a>
+    <a href="https://leetcode.com/u/devalienbrain/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
+    </a>
 </p>
 <p align="center">
     Connect with me to discuss collaborations or check out my GitHub for project updates. I'm always open to connecting and sharing insights!
