@@ -28,7 +28,7 @@
 
 <h3 align="center">✨ About Me</h3>
 <p align="center">
-    I'm currently focusing on building **scalable full-stack applications** using <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. I love creating efficient, high-performing applications, combining the latest in frontend and backend technologies. Outside of coding, I constantly explore new development trends and refine my skills to deliver better user experiences.
+    I specialize in developing <strong>scalable full-stack applications</strong> with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. Passionate about optimizing performance, I constantly explore new trends to craft efficient and dynamic web solutions. Beyond coding, I'm always learning new technologies to elevate user experiences.
 </p>
 
 ---
@@ -38,8 +38,16 @@
     <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-   
+    <a href="https://x.com/Hassan006930481" target="_blank">
+        <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Profile">
+    </a>
+    <a href="https://www.youtube.com/@devAlienBrain" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    </a>
+    <a href="https://www.facebook.com/md.sabbirhassanmurad" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile">
+    </a>
 </p>
 <p align="center">
-    Reach out on LinkedIn or check out my GitHub projects. I’m always open to collaborating on innovative and impactful projects!
+    Connect with me to discuss collaborations or check out my GitHub for project updates. I'm always open to connecting and sharing insights!
 </p>
