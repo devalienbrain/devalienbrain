@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h2 align="center" style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
+<h1>Hi 👋, I'm Hassan</h1>
+<h2 style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
-<h3 align="center">📊 My GitHub Profile Summary</h3>
-<p align="center">
+<h3>📊 My GitHub Profile Summary</h3>
+<p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details" />
 </p>
-<p align="center">
+<p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=2077" alt="Most Commit Language" />
 </p>
-<p align="center">
+<p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=2077" alt="Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=2077" alt="Productive Time" />
 </p>
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=devalienbrain&theme=2077" alt="GitHub Streak">
 </p>
 
 ---
 
-<h3 align="center">💻 Languages and Tools</h3>
-<p align="center">
+<h3>💻 Languages and Tools</h3>
+<p>
     <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,redux,nodejs,express,react,tailwind,vercel&theme=dark" alt="My Skills" />
 </p>
 
 ---
 
-<h3 align="center">✨ About Me</h3>
-<p align="center">
+<h3>✨ About Me</h3>
+<p>
     I specialize in developing <strong>scalable full-stack applications</strong> with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. Passionate about optimizing performance, I constantly explore new trends to craft efficient and dynamic web solutions. Beyond coding, I'm always learning new technologies to elevate user experiences.
 </p>
 
 ---
 
-<h3 align="center">🌍 Connect with Me</h3>
-<p align="center">
+<h3>🌍 Connect with Me</h3>
+<p>
     <a href="https://bd.linkedin.com/in/md-sabbir-hassan-murad?trk=profile-badge" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
@@ -57,6 +57,6 @@
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
     </a>
 </p>
-<p align="center">
+<p>
     Connect with me to discuss collaborations or check out my GitHub for project updates. I'm always open to connecting and sharing insights!
 </p>
