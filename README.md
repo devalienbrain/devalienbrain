@@ -1,6 +1,13 @@
 <h1>Hi 👋, I'm Hassan</h1>
 <h2 style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
+<h3>✨ About Me</h3>
+<p>
+    I specialize in developing <strong>scalable full-stack applications</strong> with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. Passionate about optimizing performance, I constantly explore new trends to craft efficient and dynamic web solutions. Beyond coding, I'm always learning new technologies to elevate user experiences.
+</p>
+
+---
+
 <h3>📊 My GitHub Profile Summary</h3>
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details" />
@@ -22,13 +29,6 @@
 <h3>💻 Languages and Tools</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,redux,nodejs,express,react,tailwind,vercel&theme=dark" alt="My Skills" />
-</p>
-
----
-
-<h3>✨ About Me</h3>
-<p>
-    I specialize in developing <strong>scalable full-stack applications</strong> with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Redux</strong>, <strong>MongoDB</strong>, and <strong>Mongoose</strong>. Passionate about optimizing performance, I constantly explore new trends to craft efficient and dynamic web solutions. Beyond coding, I'm always learning new technologies to elevate user experiences.
 </p>
 
 ---
