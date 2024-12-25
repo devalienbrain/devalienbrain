@@ -1,3 +1,5 @@
+![bannerImg](https://github.com/user-attachments/assets/4c03f9a2-f1eb-484f-b123-2a11b7348477)
+
 <h1>Hi 👋, I'm Hassan</h1>
 <h2 style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
