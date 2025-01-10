@@ -23,7 +23,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=2077" alt="Productive Time" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devalienbrain&cache=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devalienbrain)](https://git.io/streak-stats)
+
 
 
 ---
