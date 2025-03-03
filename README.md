@@ -14,12 +14,12 @@
        <img src=" http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=transparent" alt="Profile Details" />
 </p>
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=2077" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=transparent" alt="Repos Per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=transparent" alt="Most Commit Language" />
 </p>
 <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=2077" alt="Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=2077" alt="Productive Time" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devalienbrain&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
