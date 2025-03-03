@@ -11,7 +11,7 @@
 
 <h3>📊 My GitHub Profile Summary</h3>
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=2077" alt="Profile Details" />
+       <img src=" http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=transparent" alt="Profile Details" />
 </p>
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=2077" alt="Repos Per Language" />
