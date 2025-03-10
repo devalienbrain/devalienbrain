@@ -21,8 +21,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
 </p>
+<p>
+       <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devalienbrain&theme=transparent)](https://git.io/streak-stats)
 
 
 ---
