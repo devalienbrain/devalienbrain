@@ -14,6 +14,9 @@
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=transparent" alt="Profile Details" />
 </p>
 <p>
+    <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" style="border: none;" />
+</p>
+<p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=transparent" alt="Repos Per Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=transparent" alt="Most Commit Language" />
 </p>
@@ -21,9 +24,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
 </p>
-<p>
-    <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" style="border: none;" />
-</p>
+
 
 
 
