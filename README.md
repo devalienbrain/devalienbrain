@@ -10,24 +10,36 @@
 
 ---
 
-<h3>📊 My GitHub Profile Summary</h3>
+<!-- Font Awesome CDN (if not already included) -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
+
+<h3>
+  <i class="fa-solid fa-chart-line text-purple-500"></i> GitHub Profile Summary
+</h3>
 <p>
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=transparent" alt="Profile Details" />
-</p>
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=transparent" alt="Repos Per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=transparent" alt="Most Commit Language" />
-</p>
-<p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devalienbrain&theme=transparent" alt="Profile Details" />
 </p>
 
-
-<h3> <p>
-    <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" style="border: none;" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devalienbrain&theme=transparent" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devalienbrain&theme=transparent" alt="Most Commit Language" />
 </p>
- </h3>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
+</p>
+
+<h3>
+  <i class="fa-solid fa-fire text-orange-500"></i> Coding Streak 🔥
+</h3>
+<p>
+  <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" style="border: none;" />
+</p>
+ 
 
 
 ---
