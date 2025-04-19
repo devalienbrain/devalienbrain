@@ -1,4 +1,4 @@
-<h2>🤝 Greetings! </h1>
+<h2>🤝 Greetings! </h2>
 
 <h1>Hey 👋 , This is Md. Sabbir Hassan</h1>
 <h2 style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
@@ -40,7 +40,7 @@
   <img src="https://streak-stats.demolab.com?user=devalienbrain&theme=transparent" alt="Streak Stats" style="border: none;" />
 </p>
  
-
+---
 
 ---
 
