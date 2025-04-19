@@ -32,7 +32,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devalienbrain&theme=transparent" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devalienbrain&theme=transparent" alt="Productive Time" />
 </p>
-
+---
 <h3>
   <i class="fa-solid fa-fire text-orange-500"></i> Coding Streak 🔥
 </h3>
