@@ -1,5 +1,6 @@
-<img width="1036" alt="profile-sabbir" src="https://github.com/user-attachments/assets/94b0e9b4-cc24-4bc3-bfeb-d72f4735c160" />
-<h1>Hi 👋, I'm Sabbir Hassan</h1>
+<h2>🤝 Greetings! </h1>
+
+<h1>Hey 👋 , This is Md. Sabbir Hassan</h1>
 <h2 style="color: #FF6347">🚀 Full-Stack Developer | Next.js, TypeScript & MongoDB Enthusiast</h2>
 
 <h3>✨ About Me</h3>
